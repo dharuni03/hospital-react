@@ -1,0 +1,107 @@
+
+  
+  input[type="text"],
+  input[type="password"] {
+    height: 55px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    background: rgb(22, 181, 235);
+    border-radius: 24px;
+  }
+  
+  input[type="submit"] {
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 35px;
+    background: #01d28e;
+    border: 1px solid #01d28e;
+    color: #f3ebeb;
+    padding: 10px 20px;
+    border-radius: 24px;
+  }
+  
+  input[type="submit"]:hover {
+    background: #6cf0c2;
+  }
+  
+  .gh{
+    display: flex;
+    justify-content: center;
+    margin-left: -110px;
+    margin-top: -4px;
+
+  }
+  
+  .jj{
+   
+    padding: 15rem;
+    background-repeat: no-repeat;
+    
+    background-size: 4500px 3150px;
+  }
+  
+  .list-container {
+    display: flex;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+  
+  .tt {
+    font-size: 95px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 50px;
+    margin-bottom: 21px;
+    margin-top: -50px;
+    font-style: italic;
+    color:rgb(232, 236, 240)
+  }
+  
+  .ii {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 10px;
+    margin-top: -70px;
+    margin-right: 25px;
+    margin-left: 25px;
+    width: 800px;
+    
+    padding-left: 550px;
+  }
+  .jk{
+    background-image: url("C:\Users\dharu\Downloads\—Pngtree—physician day creative synthesis doctors_925337.jpg");
+    margin-top: -59px;
+    margin-left: -90px;
+    margin-right: -90px;
+    margin-bottom: 990px;
+    padding-bottom: 900px;
+    
+    width:2200px;
+    height: 2997px;
+    
+  }
+  h3{
+    text-align: center;
+    font-size: 45px;
+    font-style: italic;
+    color:rgb(20, 1, 1);
+  }
+  input{
+    text-align: center;
+    font-size: 45px;
+    font-style: italic;
+    color:rgb(19, 1, 1);
+    margin-left: 20%;
+  }
+  label{
+    margin-left:20%;
+    font-size: 45px;
+    font-style: italic;
+    color:rgb(246, 242, 242);
+
+  }
+
+  

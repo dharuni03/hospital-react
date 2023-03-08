@@ -1,0 +1,71 @@
+.bl{
+    
+background-repeat: no-repeat;
+background-image: url("https://image.freepik.com/free-vector/doctor-blue-background_40831-88.jpg");
+background-size: 2000px 2200px;
+background-size: cover;
+height:950px;
+padding-top: 90px;
+margin-top: -130px;
+}
+.box {
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    text-decoration-color: aqua;
+  }
+   
+p{
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 40px;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+  .info {
+    color: rgb(233, 105, 141);
+    background: rgb(105, 199, 246);
+    border: 1px solid rgb(19, 19, 19);
+    height:150px;
+    width:1060px;
+    margin-bottom: 60px;
+    border-radius: 1125px;
+  }
+   
+  .warn {
+    color: rgb(233, 105, 141);
+    background: rgb(105, 199, 246);
+    border: 1px solid rgb(19, 19, 19);
+    height:150px;
+    width:1060px;
+    border-radius: 1125px;
+    text-decoration: none;
+    text-decoration-line: aqua;
+    text-decoration:none;
+
+  }
+  .era{
+    color: rgb(233, 105, 141);
+    background: rgb(105, 199, 246);
+    border: 1px solid rgb(19, 19, 19);
+    height:150px;
+    width:1060px;
+    border-radius: 1125px;
+    text-decoration: none;
+    text-decoration-line: aqua;
+    text-decoration:none;
+  }
+  .app{
+    color: rgb(233, 105, 141);
+    background: rgb(105, 199, 246);
+    border: 1px solid rgb(19, 19, 19);
+    height:150px;
+    width:1060px;
+    border-radius: 1125px;
+    text-decoration: none;
+    text-decoration-line: aqua;
+    text-decoration:none;
+  }
+  a{
+    text-decoration: none;
+  }
